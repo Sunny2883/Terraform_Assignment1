@@ -1,0 +1,8 @@
+id_rsa
+*.pub
+# Local .terraform directories
+**/.terraform/*
+
+
+
+
